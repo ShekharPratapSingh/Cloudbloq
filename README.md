@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
@@ -33,3 +34,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # Cloudbloq_assignment
 >>>>>>> f1dba2fe967c3f9672f2397ecf0c047c035b4857
+=======
+# Cloudbloq
+>>>>>>> 5a2820994b2bb07f96ad2a28c1e80fb593162a82
